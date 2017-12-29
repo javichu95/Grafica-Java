@@ -1,0 +1,6 @@
+Observador x:0.5,y:0.5,z:0.0
+PImagen ancho:1,alto:1,pixel:0.001
+Esfera x:0.7,y:0.15,z:2.6,radio:0.15,red:255,green:0,blue:0
+Esfera x:0.25,y:0.15,z:2.6,radio:0.15,red:0,green:120,blue:255
+Luz x:222,y:122,z:40,intensidad:200
+jaja
